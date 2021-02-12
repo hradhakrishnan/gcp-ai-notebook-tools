@@ -16,7 +16,7 @@
 
 
 
-export INSTANCE_NAME="Notebook-instance-1"
+export INSTANCE_NAME="notebook-instance-1o"
 export VM_IMAGE_PROJECT="deeplearning-platform-release"
 export VM_IMAGE_FAMILY="common-cpu-notebooks"
 export MACHINE_TYPE="n1-standard-1"
